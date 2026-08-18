@@ -1,0 +1,13 @@
+{
+  "name": "autocycle-deriv-bot",
+  "version": "2.0.0",
+  "description": "AutoCycle Deriv Bot — Boom/Crash & Volatility with Smart Exit",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}
